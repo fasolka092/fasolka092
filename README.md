@@ -170,8 +170,5 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fasolka092&theme=github_dark" alt="GitHub Profile Summary" />
-    <br/>
-    <img src="https://streak-stats.demolab.com?user=fasolka092&hide_border=true&background=0D1117&ring=FF8C42&fire=FF8C42&currStreakNum=FF8C42&currStreakLabel=FF8C42&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8
-  B949E&v=2" />
+    <img src="https://streak-stats.demolab.com?user=fasolka092&theme=city_lights&border_radius=5&v=2" alt="GitHub Streak" />
   </div>
