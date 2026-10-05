@@ -32,8 +32,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- TODO: wklej link do swojego profilu LinkedIn -->
-  <a href="https://www.linkedin.com/in/TWOJ-LINKEDIN">
+  <a href="https://www.linkedin.com/in/dominik-dziewulski-750714433/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
