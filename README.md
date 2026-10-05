@@ -170,8 +170,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fasolka092&custom_title=Dominik%27s%20GitHub%20Stats&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF8C42&icon_color=FF8C42&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasolka092&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF8C42&text_color=C9D1D9" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=fasolka092&hide_border=true&background=0D1117&ring=FF8C42&fire=FF8C42&currStreakNum=FF8C42&currStreakLabel=FF8C42&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fasolka092&theme=github_dark" alt="GitHub Profile Summary" />
+    <br/>
+    <img src="https://streak-stats.demolab.com?user=fasolka092&hide_border=true&background=0D1117&ring=FF8C42&fire=FF8C42&currStreakNum=FF8C42&currStreakLabel=FF8C42&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8
+  B949E&v=2" alt="GitHub Streak" />
+  </div>
