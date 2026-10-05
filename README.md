@@ -12,7 +12,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" src="./assets/blackhole.jpg" heigth="244" alt="Black hole" />
+<img align="right" src="./assets/blackhole.jpg" height="244" alt="Black hole" />
 
 **Dominik** here — I like owning a project end to end: from the first line of code, through the backend, all the way to a live app running on a server I set up myself.
 
