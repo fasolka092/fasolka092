@@ -170,5 +170,5 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=fasolka092&theme=city_lights&border_radius=5&v=2" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=fasolka092&theme=city_lights&border_radius=5&timezone=Europe/Warsaw&v=3" alt="GitHub Streak" />
   </div>
