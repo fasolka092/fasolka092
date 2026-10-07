@@ -3,8 +3,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF8C42&center=true&vCenter=true&width=700&height=60&lines=Always+learning+something+new;Websites+%E
-  2%80%A2+Web+Apps+%E2%80%A2+Desktop+Apps;Self-hosting+%26+Reverse+Proxy;Code+%E2%86%92+Server+%E2%86%92+Production;Lost+in+space+%26+physics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF8C42&center=true&vCenter=true&width=700&height=60&lines=Always+learning+something+new;Websites+%E2%80%A2+Web+Apps+%E2%80%A2+Desktop+Apps;Self-hosting+%26+Reverse+Proxy;Code+%E2%86%92+Server+%E2%86%92+Production;Lost+in+space+%26+physics" alt="Typing SVG" />
 </p>
 
 <p align="center">
