@@ -19,7 +19,7 @@
 - 🌐 Building **websites and web applications** — frontend, backend and **REST APIs** (Express.js)
 - 🖥️ Creating **desktop applications**
 - 🚀 **Deploying** my projects: Linux servers, **Nginx** reverse proxy, **Cloudflare**, **Docker** containers and virtualization on **Proxmox**
-- 🎮 Working on my own game in **C#** after hours
+- 🎮 Working on my own games in **C#** and **C++** after hours
 - 🌱 Currently learning **Vite** (for my next app) and **Postman** — **Flutter** is next on the list
 - 🌌 Outside of code: big fan of **space and astrophysics** — black holes, orbits and the physics behind it all
 
