@@ -132,6 +132,24 @@
 <img src="./assets/icons/mariadb.svg" width="48" height="48" alt="MariaDB" />
 <br>MariaDB
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+<br>SQLite
+</td>
+</tr>
+</table>
+
+### Desktop
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="Tauri" />
+<br>Tauri
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br>Rust
+</td>
 </tr>
 </table>
 
@@ -169,6 +187,10 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 <br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+<br>GitHub Actions
 </td>
 </tr>
 </table>
